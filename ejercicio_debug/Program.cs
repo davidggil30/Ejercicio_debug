@@ -10,8 +10,8 @@ namespace AplicacionPruebaDebug
             int a = 10;
             int b = a / 2;
             int c = b + 7;
-            int d = c * 3;
-            double e = Math.Sin(c);
+            int d = c * 2;
+            double e = Math.Cos(c);
             int f = c + d;
         }
     }
